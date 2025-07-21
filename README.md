@@ -8,7 +8,9 @@ Se trata de un buscador de una plataforma de peliculas en donde primero se solic
 
 Autor
 Marianela Garcia
+
 Curso: Javascrip de Coderhouse.
 
 git clone
+gh repo clone Marianelagarcia03/Garcia-Marianela-1era-pre-entrega-javascript
 
