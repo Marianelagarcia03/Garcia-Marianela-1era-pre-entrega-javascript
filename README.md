@@ -11,6 +11,6 @@ Marianela Garcia
 
 Curso: Javascrip de Coderhouse.
 
-git clone
-gh repo clone Marianelagarcia03/Garcia-Marianela-1era-pre-entrega-javascript
+git clone https://github.com/Marianelagarcia03/Garcia-Marianela-1era-pre-entrega-javascript.git
+
 
